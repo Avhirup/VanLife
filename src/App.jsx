@@ -10,7 +10,7 @@ export default function App() {
         <Link to="/" className='logo'>VANLIFE</Link>
         <nav>
           <Link to="/about" className='navBtn'>About</Link>
-          <Link to="/" className='navBtn'>Vans</Link>
+          <Link to="/vans" className='navBtn'>Vans</Link>
         </nav>
       </header>
 
