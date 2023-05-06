@@ -20,7 +20,7 @@ export default function App() {
         <Route path='/vans' element={<Vans />} />
       </Routes>
       <footer>
-        <p>Ⓒ 2022 #VANLIFE</p>
+        <p>made by ♥ Avhi</p>
       </footer>
     </BrowserRouter>
 
